@@ -28,4 +28,4 @@ En esta sección, se implementará el algoritmo `DBSCAN de Scikit-Learn`. Se rea
 
 ## Conclusiones y Resultados
 
-Este análisis completo proporciona insights valiosos sobre la clasificación de estados basada en crímenes(asesinatos, asaltos, violaciones y urbanización). Los modelos de `KMeans, Mean Shift y DBSCAN` ofrecen perspectivas distintas, complementando cada uno la interpretación del conjunto de datos. La clasificación final en categorías de seguridad ('Seguro', 'Precaución', 'Peligroso') facilita la toma de decisiones basada en el análisis de datos. 
+Este análisis completo proporciona insights valiosos sobre la clasificación de estados basada en crímenes(asesinatos, asaltos, violaciones y urbanización). Los modelos de `KMeans, Mean Shift y DBSCAN` ofrecen perspectivas distintas, complementando cada uno la interpretación del conjunto de datos. La clasificación final en categorías de seguridad ('Seguro', 'Precaución', 'Peligroso' para KMeans y MeanShift) y ('Seguro', 'Peligroso', 'Indefinido' en el caso de DBSCAN) facilita la toma de decisiones basada en el análisis de datos. 
